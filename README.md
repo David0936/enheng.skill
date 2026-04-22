@@ -1,5 +1,7 @@
 # 嗯哼交易心法 Skill
 
+![嗯哼交易心法封面](assets/cover.png)
+
 > **"一年只做3次交易。拿住，相信，静待收获。"**
 > —— EnHeng456（05年大学生，近3亿选择）
 
@@ -78,6 +80,8 @@ cp enheng-skill/SKILL.md ~/.claw/skills/
 ```
 enheng-skill/
 ├── README.md          # 本文件
+├── assets/
+│   └── cover.png      # README封面图
 ├── SKILL.md           # 核心心法（主文件）
 ├── 嗯哼交易心法.pdf    # 完整版PDF（含复盘日记）
 └── LICENSE            # 非商用声明
@@ -86,9 +90,9 @@ enheng-skill/
 ## 作者
 
 **David小鱼**
-- 微信号：Eth6668889
+- 微信号：824644809
 - TG：enheng777
-- 公众号：专注web 4 / 高纬认知
+- 公众号：自家的鱼鱼
 
 ## 授权声明
 
