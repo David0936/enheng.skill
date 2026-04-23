@@ -1,0 +1,30 @@
+{
+  "channels": [
+    {
+      "name": "twitter",
+      "type": "social",
+      "handles": ["EnHeng456"],
+      "keywords": ["BNB", "CZ", "交易", "BTC", "ETH", "DeFi", "土狗", "Meme"],
+      "fetch_interval_hours": 24,
+      "max_tweets_per_fetch": 50,
+      "include_replies": false,
+      "include_retweets": false,
+      "enabled": true
+    },
+    {
+      "name": "telegram",
+      "type": "messaging",
+      "channels": ["enhengAlpha"],
+      "enabled": false
+    }
+  ],
+  "output": {
+    "raw_dir": "feeds/",
+    "digested_dir": "digested/"
+  },
+  "ai": {
+    "provider": "openai",
+    "model": "gpt-4",
+    "digest_depth": "detailed"
+  }
+}
