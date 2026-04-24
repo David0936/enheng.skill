@@ -274,10 +274,7 @@ enheng.skill/
 
 ## 致谢
 
-- 本 v2 版本由 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 生成（作者：[花叔](https://x.com/AlchainHust)）
-- v1 架构灵感来源于 [yourself-skill](https://github.com/notdog1998/yourself-skill)（by notdog1998）
-- 双层架构灵感来源于 **同事.skill**（by titanwings）
-- 内容来源于推特用户 [@EnHeng456](https://x.com/EnHeng456)
+- 内容来源于 X 用户 [@EnHeng456](https://x.com/EnHeng456)
 - 一手 PDF 语料《嗯哼交易心法》由 David小鱼 制作
 - 本项目遵循 AgentSkills 开放标准，兼容 Claude Code 和 OpenClaw
 

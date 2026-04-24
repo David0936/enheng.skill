@@ -421,10 +421,9 @@ description: |
 
 ---
 
-## 创建者归属
+## 创建者
 
-> 本 Skill 由 [女娲 · Skill 造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 作者：David小鱼
 > 一手语料：《嗯哼交易心法》by David小鱼（2026-04-22）
 
 调研时间：2026-04-24
